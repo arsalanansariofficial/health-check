@@ -1,0 +1,61 @@
+/*
+    Style sheet for the Header component
+    Created By- Arsalan Ansari
+ */
+
+.app-header {
+    background-color: purple;
+    height: 36px;
+    padding: 11px;
+}
+
+.title-text {
+    color: #ffffff;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+    position: absolute;
+}
+
+.login-button {
+    float: right;
+}
+
+.app-logo {
+    height: 35px;
+    background: #ff7f7f;
+}
+
+.tab-container {
+    height: 50%;
+}
+
+.tabs {
+    margin-bottom: 20px;
+}
+
+.container-form-helper {
+    background: black ;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 5px;
+    width: 200px;
+    padding: 24px 10px 24px 10px;
+    margin-bottom: -90px;
+}
+
+.form-helper-text {
+    color: white;
+}
+
+.hide {
+    display: none;
+}
+
+.display {
+    display: block;
+}
+
+.validation-message {
+    color: red;
+}
